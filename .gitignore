@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test and coverage
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+pytest_cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MyPy / Pylint
+.mypy_cache/
+.pyre/
